@@ -1,0 +1,8 @@
+<CollectionView ItemsSource="{Binding Items}" ItemsLayout="VerticalList">
+    <CollectionView.ItemTemplate>
+        <DataTemplate>
+            <Label Text="{Binding Title}" FontSize="16" />
+            <Label Text="{x:Static resources:Strings.WelcomeText}" FontSize="24" />
+        </DataTemplate>
+    </CollectionView.ItemTemplate>
+</CollectionView>

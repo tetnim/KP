@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "задача-MauiApp1",
+      "appliesTo": "MauiApp1/MauiApp1/",
+      "type": "launch"
+    }
+  ]
+}

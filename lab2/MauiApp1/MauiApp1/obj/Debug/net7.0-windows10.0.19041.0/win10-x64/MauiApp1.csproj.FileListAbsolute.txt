@@ -1,0 +1,2 @@
+<TargetFrameworks>net7.0;net7.0-android;net7.0-ios;net7.0 maccatalyst</TargetFrameworks>.
+	<OutputType Condition="'$(TargetFramework)' !='net7.0'">Exe</OutputType>

@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "задача-MyApp",
+      "appliesTo": "lab2/MauiApp1/MyApp.Tests",
+      "type": "launch"
+    }
+  ]
+}
